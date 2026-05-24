@@ -1,0 +1,1 @@
+Pham, P., Nguyen, V., & Nguyen, T. (2022). A Review of AI-augmented End-to-End Test Automation Tools. https://doi.org/10.1145/3551349.3563240
