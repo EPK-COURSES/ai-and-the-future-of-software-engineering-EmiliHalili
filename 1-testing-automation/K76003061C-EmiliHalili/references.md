@@ -1,1 +1,4 @@
 Pham, P., Nguyen, V., & Nguyen, T. (2022). A Review of AI-augmented End-to-End Test Automation Tools. https://doi.org/10.1145/3551349.3563240
+Mohapatra, Partha Sarathi. Intelligent Assurance: Artificial Intelligence-Powered Software Testing in the Modern Development Lifecycle. DeepScience Publishing, 2024. https://books.google.al/books?id=u5h1EQAAQBAJ
+Rajamanickam, E., and N. Thrisha. “AI-Powered Code Bug Detection and Fixing System.” International Journal of Engineering & Extended Technologies Research (IJEETR), vol. 8, no. 2, March–April 2026, pp. 4671. DOI:10.15662/IJEETR.2026.0802475.
+Sharma, Harish, Antorweep Chakravorty, Shahid Hussain, and Rajani Kumari, editors. Artificial Intelligence: Theory and Applications, Proceedings of AITA 2024, Volume 1. Lecture Notes in Networks and Systems, vol. 5588. Springer, 2024.
