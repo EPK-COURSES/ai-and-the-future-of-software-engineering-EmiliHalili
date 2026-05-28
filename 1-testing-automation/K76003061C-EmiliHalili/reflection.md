@@ -19,3 +19,14 @@ I also learned how deployment automation supports DevOps and Continuous Delivery
 However, this research also made me realize that automation introduces new challenges. Automated systems still need careful monitoring, testing, and maintenance. If deployment scripts or configurations contain errors, those mistakes can spread quickly across multiple environments. Security and infrastructure management also become more complex as systems scale.
 Another important point is that automation does not remove the need for human expertise. Developers and operations teams still need strong problem-solving skills to design deployment pipelines, manage cloud infrastructure, monitor systems, and handle unexpected failures.
 Overall, this research changed my understanding of how software is delivered in real-world environments. I now see deployment automation as a critical part of modern software engineering because it improves speed, consistency, and reliability. In the future, I believe software engineers will need to understand DevOps practices, cloud technologies, and automation tools in order to work effectively in large-scale software systems.
+Although AI improves software testing and debugging, several challenges remain:
+- High false positive rates
+- Difficulty understanding complex logical errors
+- Dependence on high-quality training data
+- Ethical concerns and AI bias
+- Scalability issues in very large systems
+- Risk of overreliance on automation
+These challenges show that AI should assist software engineers rather than fully replace them.
+Artificial intelligence is transforming software testing and debugging by improving automation, speed, and software quality. AI technologies such as machine learning, deep learning, and natural language processing can generate test cases, detect software bugs, and support automated deployment processes more efficiently than traditional methods.
+Although, AI systems still face challenges such as false positives, scalability issues, and limited understanding of complex logical problems. Human developers and testers therefore remain essential for decision-making, critical thinking, and software reliability.
+Overall, AI is becoming an important tool in modern software engineering and will continue to shape the future of software testing, debugging, and deployment automation.
